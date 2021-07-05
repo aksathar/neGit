@@ -1,0 +1,7 @@
+{
+        "name":"neGit",
+        "desc":"Default Project for Xelerate",
+		"filePath": "/neGit/neGit.json",
+        "type":"APPLICATION",
+        "childs":[]    
+}
